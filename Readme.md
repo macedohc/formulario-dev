@@ -1,4 +1,4 @@
-<img src = "formulário.PNG" width = "500px" align = "right">
+<img src = "formulário.PNG" width = "400px" align = "right">
 
 ### Projeto de um Formulário para DEVs 💻
 
